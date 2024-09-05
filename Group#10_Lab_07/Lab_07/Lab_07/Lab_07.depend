@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1701451478 source:c:\users\nabeel ahmed\documents\dsa codes\lab_07\main.cpp
+	<iostream>
+	"BST.h"
+
+1701453051 c:\users\nabeel ahmed\documents\dsa codes\lab_07\include\bst.h
+	<iostream>
+
+1701453268 source:c:\users\nabeel ahmed\documents\dsa codes\lab_07\src\bst.cpp
+	"BST.h"
+	<iostream>
+
+1701510678 source:c:\users\subhanamjad\downloads\lab_07\lab_07\src\bst.cpp
+	"BST.h"
+	<iostream>
+
+1701509577 c:\users\subhanamjad\downloads\lab_07\lab_07\include\bst.h
+	<iostream>
+	<iomanip>
+
+1701511769 source:c:\users\subhanamjad\downloads\lab_07\lab_07\main.cpp
+	<iostream>
+	<sstream>
+	"BST.h"
+

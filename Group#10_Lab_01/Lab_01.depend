@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1696568095 source:c:\users\nabeel ahmed\documents\dsa codes\lab_01\src\circle.cpp
+	"Circle.h"
+	<iostream>
+
+1696566994 c:\users\nabeel ahmed\documents\dsa codes\lab_01\include\circle.h
+	<Shape_2D.h>
+
+1696567689 c:\users\nabeel ahmed\documents\dsa codes\lab_01\include\shape_2d.h
+	<Shape.h>
+	<string>
+
+1696567689 c:\users\nabeel ahmed\documents\dsa codes\lab_01\include\shape.h
+	<string>
+
+1696568095 source:c:\users\nabeel ahmed\documents\dsa codes\lab_01\src\cube.cpp
+	"Cube.h"
+	<iostream>
+
+1696567689 c:\users\nabeel ahmed\documents\dsa codes\lab_01\include\cube.h
+	<Shape_3D.h>
+
+1696567689 c:\users\nabeel ahmed\documents\dsa codes\lab_01\include\shape_3d.h
+	<Shape.h>
+	<string>
+
+1696568095 source:c:\users\nabeel ahmed\documents\dsa codes\lab_01\src\rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1696567689 c:\users\nabeel ahmed\documents\dsa codes\lab_01\include\rectangle.h
+	<Shape_2D.h>
+
+1696567689 source:c:\users\nabeel ahmed\documents\dsa codes\lab_01\src\shape.cpp
+	"Shape.h"
+	<iostream>
+
+1696567843 source:c:\users\nabeel ahmed\documents\dsa codes\lab_01\src\shape_2d.cpp
+	"Shape_2D.h"
+	<iostream>
+
+1696567861 source:c:\users\nabeel ahmed\documents\dsa codes\lab_01\src\shape_3d.cpp
+	"Shape_3D.h"
+	<iostream>
+
+1696567689 source:c:\users\nabeel ahmed\documents\dsa codes\lab_01\src\sphere.cpp
+	"Sphere.h"
+	<iostream>
+
+1696567689 c:\users\nabeel ahmed\documents\dsa codes\lab_01\include\sphere.h
+	<Shape_3D.h>
+
+1696568095 source:c:\users\nabeel ahmed\documents\dsa codes\lab_01\src\square.cpp
+	"Square.h"
+	<iostream>
+
+1696567689 c:\users\nabeel ahmed\documents\dsa codes\lab_01\include\square.h
+	<Shape_2D.h>
+
+1696526991 source:c:\users\nabeel ahmed\documents\dsa codes\lab_01\main.cpp
+	<iostream>
+	<Shape.h>
+	<Circle.h>
+	<Rectangle.h>
+	<Square.h>
+	<Cube.h>
+	<Sphere.h>
+

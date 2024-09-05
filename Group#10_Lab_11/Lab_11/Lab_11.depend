@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1703943370 source:c:\users\nabeel ahmed\documents\dsa codes\lab_11\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	<hashing.h>
+
+1703941635 c:\users\nabeel ahmed\documents\dsa codes\lab_11\include\hashing.h
+	<iostream>
+	<list>
+	<math.h>
+
+1703943425 source:c:\users\nabeel ahmed\documents\dsa codes\lab_11\src\hashing.cpp
+	"hashing.h"
+

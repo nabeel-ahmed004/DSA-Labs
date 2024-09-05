@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1700923420 source:c:\users\subhanamjad\desktop\dsa lab\lab_06\main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+

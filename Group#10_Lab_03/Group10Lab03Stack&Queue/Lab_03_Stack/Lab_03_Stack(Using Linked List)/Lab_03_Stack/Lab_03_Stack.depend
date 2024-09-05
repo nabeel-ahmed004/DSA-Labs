@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698416156 source:c:\users\nabeel ahmed\downloads\lab_03_stack\lab_03_stack\main.cpp
+	<iostream>
+	<Stack.h>
+
+1698424636 c:\users\nabeel ahmed\downloads\lab_03_stack\lab_03_stack\include\stack.h
+
+1698425130 source:c:\users\nabeel ahmed\downloads\lab_03_stack\lab_03_stack\src\stack.cpp
+	"Stack.h"
+	<iostream>
+

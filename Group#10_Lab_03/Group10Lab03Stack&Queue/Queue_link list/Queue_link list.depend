@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698431170 source:c:\users\subha\onedrive\desktop\theory assignments\queue_link list\main.cpp
+	<iostream>
+	"Queue_link.h"
+
+1698431509 c:\users\subha\onedrive\desktop\theory assignments\queue_link list\include\queue_link.h
+
+1698431397 source:c:\users\subha\onedrive\desktop\theory assignments\queue_link list\src\queue_link.cpp
+	"Queue_link.h"
+	<iostream>
+

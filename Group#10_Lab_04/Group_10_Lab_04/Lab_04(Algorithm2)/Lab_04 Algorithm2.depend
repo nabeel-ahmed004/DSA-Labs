@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699099099 source:f:\3rd semester\dsa\lab\lab_04 algorithm2\main.cpp
+	<iostream>
+	<thread>
+	<chrono>
+

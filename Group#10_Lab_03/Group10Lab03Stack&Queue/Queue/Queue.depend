@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1698416449 source:c:\users\subha\onedrive\desktop\theory assignments\queue\main.cpp
+	<iostream>
+	"Queue.h"
+
+1698416420 c:\users\subha\onedrive\desktop\theory assignments\queue\include\queue.h
+	<iostream>
+

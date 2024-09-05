@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1703328715 source:c:\users\nabeel ahmed\documents\dsa codes\graph\src\adj_list.cpp
+	"adj_list.h"
+
+1703328104 c:\users\nabeel ahmed\documents\dsa codes\graph\include\adj_list.h
+	<iostream>
+	<vector>
+	<list>
+	<queue>
+
+1703325738 source:c:\users\nabeel ahmed\documents\dsa codes\graph\main.cpp
+	<iostream>
+	"adj_matrix.h"
+	"adj_list.h"
+
+1703320976 c:\users\nabeel ahmed\documents\dsa codes\graph\include\adj_matrix.h
+	<iostream>
+	<vector>
+	<queue>
+
+1703320976 source:c:\users\nabeel ahmed\documents\dsa codes\graph\src\adj_matrix.cpp
+	"adj_matrix.h"
+

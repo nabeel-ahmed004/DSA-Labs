@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1702139527 source:c:\users\nabeel ahmed\documents\dsa codes\lab_08\main.cpp
+	"BinaryHeap.h"
+	<iostream>
+	<vector>
+	<chrono>
+
+1702101538 c:\users\nabeel ahmed\documents\dsa codes\lab_08\include\binaryheap.h
+	<iostream>
+	<vector>
+
+1702139527 source:c:\users\nabeel ahmed\documents\dsa codes\lab_08\src\binaryheap.cpp
+	"BinaryHeap.h"
+
+1702101870 source:c:\users\nabeel ahmed\documents\dsa codes\lab_08\src\binaryheap_impl.cpp
+	"BinaryHeap.cpp"
+	<string>
+	<vector>
+
+1702139527 c:\users\nabeel ahmed\documents\dsa codes\lab_08\src\binaryheap.cpp
+	"BinaryHeap.h"
+

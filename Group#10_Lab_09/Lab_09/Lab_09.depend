@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1702737633 source:c:\users\subhanamjad\desktop\dsa lab\lab_09\main.cpp
+	<iostream>
+	"AVLTree.h"
+	<set>
+
+1702736358 c:\users\subhanamjad\desktop\dsa lab\lab_09\include\avltree.h
+
+1702736358 source:c:\users\subhanamjad\desktop\dsa lab\lab_09\src\avltree.cpp
+	"AVLTree.h"
+	<iostream>
+
